@@ -1,0 +1,10 @@
+The following project consist of a group files that have the purpose to perform basic Matrix operations and create Matrix in more efficient way. 
+
+List.h: Contains the prototypes of the doubly linked list functions with the void* pointer.
+List.c: Contains the definition of the prototypes declared in List.h.
+ListTest.c :Contains some Tests performed for List.c.
+Matrix.h: Contains the prototypes of the Matrix class and the basic operations.
+Matrix.c: Contains the definition of the prototypes declared in Matrix.h.
+MatrixTest.c: Contains some Tests performed for Matrix.c.
+Sparse.c: Reads input file and outputs Two Matrixes with operations performed.
+

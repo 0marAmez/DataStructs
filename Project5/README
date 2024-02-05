@@ -1,0 +1,8 @@
+The following consist of group file with the purpose of implementing
+A List ADT in c++ and a shuffle card function, capable of shuffling numbers
+perfectly.
+
+List.h: Contains the prototypes of the new doubly linked list functions.
+List.cpp: Contains the definition of the prototypes declared in List.h.
+ListTest.cpp :Contains some Tests performed for List.cpp.
+Shuffle.cpp : Contains the function void Shuffle which is capable of shuffling numbers perfectly.

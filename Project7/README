@@ -1,0 +1,6 @@
+The following project consist of a group files that have the purpose to create a dictionary from a file: 
+
+Dictionary.h: Contains the prototypes of the new binary tree functions with pair key and value.
+Dictionary.cpp: Contains the definition of the prototypes declared in Dictionary.h.
+DictionaryTest.cpp: Contains some Tests performed for Dictionary.cpp.
+Order.cpp: Reads from a file and outputs the strings read in alphabetical order and also displays the value.

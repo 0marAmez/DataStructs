@@ -1,0 +1,11 @@
+The following project consist of a group files that have the purpose to create a digraph
+By reading from an input file and output the adjacent neighbors of every vertex and connected
+Components.
+
+FindComponents.c: Reads the input file and outputs the adjacent neighbors and connected components.
+Graph.h : Contains the prototypes of the functions that are used in Graph.c and also includes "List.h."
+Graph.c: Contains the definition of the functions declare in Graph.h.
+** Note: For DFS() a pass by reference approach was implemented to ensure "time" had the right value.
+List.h: Contains the prototypes of the doubly linked list functions.
+List.c: Contains the definition of the prototypes declared in List.h.
+GraphTest.c: Contains some testings of Graph.c. 

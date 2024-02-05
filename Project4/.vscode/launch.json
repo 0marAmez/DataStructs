@@ -1,0 +1,20 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [
+        ""
+      ],
+      "stopAtEntry": true,
+      "cwd": "/Users/omaramezquita/Desktop/CSE_UCSC/CSE101/pa/pa4",
+      "environment": [],
+      "program": "/Users/omaramezquita/Desktop/CSE_UCSC/CSE101/pa/pa4/build/Debug/outDebug",
+      "internalConsoleOptions": "openOnSessionStart",
+      "MIMode": "gdb",
+      "externalConsole": false
+    }
+  ]
+}

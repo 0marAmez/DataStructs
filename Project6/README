@@ -1,0 +1,10 @@
+The following project consist of a group files that have the purpose to perform basic arithmetic for extremely large integers: 
+
+List.h: Contains the prototypes of the new doubly linked list functions with ListElement as long.
+List.cpp: Contains the definition of the prototypes declared in List.h.
+ListTest.cpp: Contains some Tests performed for List.cpp.
+BigInteger.h: Contains the functions prototypes for our BigInteger calculators.
+BigInteger.cpp: Contains the functions definitions for our BigInteger.cpp .
+BigIntegerTest.cpp : Contains a series of testings for BigInteger.cpp .
+Artithmetic.cpp : is file i/o program that reads extremely large numbers from a file an performs a series
+of operations and outputs its value in another file.

@@ -1,0 +1,6 @@
+/*********************************************************************************
+* Omar Amezquita, ogamezqu
+* 2022 Winter CSE101 PA1
+* README
+*********************************************************************************/
+The following program is set c files that contains prototypes and function definition ADT call List (Doubly Linked List) which has a front back,cursor,index, and length. The Lex.c is program that read string inputs from a file and sort strings in alphabetical order and write the sequence in the output file.
